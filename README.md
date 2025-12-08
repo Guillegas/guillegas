@@ -13,7 +13,7 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guillermo-andujar-martinez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-and%C3%BAjar-mart%C3%ADnez-32b87a266/)
 
 **Email:** `guilleandumarti@gmail.com`
 
