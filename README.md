@@ -1,15 +1,15 @@
-# 💫 About Me:
+# 👨🏻‍💻 About Me:
 🔭 I’m currently working on finishing my Multiplatform Application Development (DAM) studies while building personal projects like my digital CV website and small apps to strengthen my portfolio.
 
-👯 I’m looking to collaborate on projects that help me gain real-world experience where I can learn from others, improve my code and contribute to something useful.
+📲 I’m looking to collaborate on projects that help me gain real-world experience where I can learn from others, improve my code and contribute to something useful.
 
 🤝 I’m looking for help with finding opportunities (internships, junior roles or side projects) that let me grow as a developer, work with international teams and prepare myself for living abroad.
 
 🌱 I’m currently learning new languages, modern web technologies and good development practices to be ready to travel, work in other countries and adapt to different environments.
 
-⚡  
-My main goals are to travel, gain experience working in tech and eventually live abroad while continuing to grow through personal projects, teamwork and constant learning.
+🌍 My main goals are to travel, gain experience working in tech and eventually live abroad while continuing to grow through personal projects, teamwork and constant learning.
 
+🗣️ Languages: 🇪🇸 Spanish · 🇬🇧 English · 🇩🇪 German.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Guillermo Andújar Martínez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guilleandumarti@gmail.com) 
 
