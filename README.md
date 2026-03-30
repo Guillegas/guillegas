@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Developer · Java · Spring Boot · AI/LLM Integration</b><br/>
-  📍 Based in Spain · Open to opportunities in <strong>Zürich, Switzerland</strong>
+  📍 Based in Spain · Open to opportunities in <strong>Switzerland</strong>
 </p>
 
 <p align="center">
@@ -70,5 +70,5 @@ I'm trilingual (🇪🇸 Spanish · 🇬🇧 English · 🇩🇪 German), which 
 ---
 
 <p align="center">
-  <i>Available from July 2026 · EU citizen · Zürich preferred</i>
+  <i>Open to Work</i>
 </p>
