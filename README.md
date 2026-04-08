@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Developer · Java · Spring Boot · AI/LLM Integration</b><br/>
-  📍 Based in Spain · Open to opportunities in <strong>Switzerland</strong>
+  📍 Based in Spain · Open to opportunities <strong>Worldwide</strong>
 </p>
 
 <p align="center">
