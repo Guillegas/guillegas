@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Guillermo 👋</h1>
 <p align="center">
   <b>Flutter · Python · AI/LLM · Open Banking · Full Stack</b><br/>
-  📍 Vienna, Austria (Erasmus) → Available in Zürich / Europe from June 2026
+  📍 Vienna, Austria (Erasmus) → Available in Europe from June 2026
 </p>
 <p align="center">
   <a href="https://guillegas-dev.vercel.app/" target="_blank">
