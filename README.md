@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Guillermo 👋</h1>
 <p align="center">
-  <b>Flutter · Python · AI/LLM · Open Banking · Full Stack</b><br/>
-  📍 Vienna, Austria (Internship) → Available in Europe from June 2026
+  <b>Full Stack · AI Systems & Automation · Entrepreneur</b><br/>
+  💼 Full Stack AI Systems & Automation @ <b>Bakano Ecommerce</b> · 📍 Seville, Spain
 </p>
 <p align="center">
   <a href="https://guillegas-dev.vercel.app/" target="_blank">
@@ -19,9 +19,9 @@
 
 ### About me
 
-I'm a 20-year-old full-stack developer who builds real products — not tutorials.
+I'm a 20-year-old full-stack developer and entrepreneur who builds real products — not tutorials.
 
-Currently finishing a technical Erasmus in Vienna and available for roles in Switzerland, Europe, or remote from June 2026. I ship production-grade products from scratch on my own: an iOS app that matches tattoo design colors to real inks using perceptual color science, a Flutter fintech app integrated with Open Banking, and a multi-tenant B2B SaaS powered by RAG and vector search — real architectures running in production, not demos.
+Based in Seville, joining **Bakano Ecommerce** as a Full Stack AI Systems & Automation developer, building AI-driven systems and automation pipelines for real businesses. Alongside that I ship production-grade products from scratch on my own: an iOS app that matches tattoo design colors to real inks using perceptual color science, a Flutter fintech app integrated with Open Banking, and a multi-tenant B2B SaaS powered by RAG and vector search — real architectures running in production, not demos.
 
 I'm trilingual (🇪🇸 Spanish · 🇬🇧 English C1 · 🇩🇪 German B2/C1) and thrive in international, fast-moving environments.
 
@@ -88,5 +88,5 @@ I'm trilingual (🇪🇸 Spanish · 🇬🇧 English C1 · 🇩🇪 German B2/C1
 ---
 
 <p align="center">
-  <i>Open to work — Junior / Graduate Developer roles in 🇨🇭 Switzerland · 🇪🇺 Europe · 🌍 Remote</i>
+  <i>Open to collaborate on international projects 🌍 — AI systems, automation & full-stack products</i>
 </p>
